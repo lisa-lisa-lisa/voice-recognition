@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+opencv-contrib-python = "*"
+jupyter = "*"
+matplotlib = "*"
+speechrecognition = "*"
+pyaudio = "*"
+google-api-python-client = "*"
+pyttsx = "*"
+gtts = "*"
+"pyttsx3" = "*"
+pyobjc = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
